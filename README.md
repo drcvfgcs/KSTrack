@@ -1,1 +1,1 @@
-# KSTrack， a general partial multi-modal tracking framework
+# KSTracker， a general tracking framework for partial multi-modal tracking
